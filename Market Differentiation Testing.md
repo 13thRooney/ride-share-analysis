@@ -1,4 +1,4 @@
-###Pyber Ride-Sharing Analysis
+Pyber Ride-Sharing Analysis
 
 Given the raw data provided, the following outlines the analysis of a few clearly observable trends and my suggestions and questions as they relate to the pursuit of new opportunities for market differentiation in the ride-sharing business:
 
